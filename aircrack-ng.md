@@ -15,4 +15,26 @@ Etape 3 :
     
 Etape 4 :
 
-    -ifconfig
+    -ifconfig [name} up
+    
+Etape 5 :
+
+    -airmon-ng check [name}
+    
+Etape 6 :
+
+    -kill [PID}
+        --> all PID
+
+Etape 7 :
+
+    -airmon-ng [name}
+    
+Etape 8 :
+
+    -airodump-ng [name}
+    (Wait)
+    
+Etape 9 :
+
+    -find BSSID  :)
