@@ -1,2 +1,0 @@
-Clean History PowerShell : Get-DnsClientCache | Select-Object -Property Entry, Data | Sort-Object Entry | FT
- 
